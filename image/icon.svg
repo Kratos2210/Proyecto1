@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#7f00ff" height="330.07288" id="svg_7" rx="50" ry="50" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="matrix(0.40511 -0.278988 0.240917 0.454312 205.302 377.218)" width="79" x="172.715701" y="-415.415002"/>
+  <rect fill="#7f00ff" height="275.373063" id="svg_1" rx="50" ry="50" stroke="#000000" transform="rotate(0.884125 74 216.5) matrix(0.99967 -0.0256985 0.0256985 0.99967 -6.2186 3.11284)" width="64.216084" x="42.600348" y="77.691653"/>
+  <rect fill="#7f00ff" height="60.068132" id="svg_3" rx="50" ry="50" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="matrix(0.803127 -0.0307547 0.0247116 0.999527 1.53225 5.55242)" width="210" x="46.566576" y="294.765902"/>
+  <text fill="#000000" font-family="serif" font-size="178" id="svg_42" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="rotate(-0.450252 405.5 300.75)" x="405.5" xml:space="preserve" y="358.5">&lt;ra/&gt;</text>
+  <rect fill="#7f00ff" height="322.040936" id="svg_5" rx="50" ry="50" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="matrix(0.40155 0.249648 -0.205255 0.504805 -6.62604 -59.3124)" width="79" x="534.100081" y="80.374481"/>
+ </g>
+</svg>
