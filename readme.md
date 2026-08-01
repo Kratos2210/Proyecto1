@@ -28,3 +28,5 @@ Este proyecto nace para proporcionar un entorno educativo completo y reproducibl
 1. Haz un fork del proyecto.
 2. Crea una rama con tu funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
 3. Haz commit de tus cambios y abre un Pull Request hacia la rama `main`.
+
+#### Detalles del creador: [Linkedin](https://www.linkedin.com/in/lruizat/)
